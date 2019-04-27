@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: docker-springboot-webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Valerian
+Implementation-Vendor-Id: com.docker.springboot.app
+Build-Jdk: 1.8.0_212
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/docker-springboot-webapp
+Created-By: Maven Integration for Eclipse
+Main-Class: hello.Application
+
